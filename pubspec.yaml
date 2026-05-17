@@ -211,6 +211,7 @@ dependencies:
   pedantic: 1.11.1
   quiver: 3.2.2
   yaml_edit: 2.2.3
+  flutter_blue_plus: ^2.3.2
 
 dev_dependencies:
   ffigen: 20.1.1
