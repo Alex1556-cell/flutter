@@ -1,3 +1,5 @@
+This is the flutter based and openly available application for the Sonillo-Mask
+
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
